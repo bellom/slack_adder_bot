@@ -18,7 +18,6 @@ https://github.com/slack-ruby/slack-ruby-bot#slackrubybotcommandsbase
 ##### foreman
 
 
-
 ## Installation
 
 1. Clone the project to your local directory
@@ -30,6 +29,13 @@ git clone https://github.com/bellom/slack_adder_bot
 2. Run `bundle install`
 
 3. Run `foreman start`
+
+## Deployment
+Hosted on Heroku
+
+## Live Demo
+https://adder-bot.herokuapp.com/
+
 
 ## Contact
 
